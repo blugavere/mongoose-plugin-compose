@@ -14,4 +14,4 @@ clean:
 	rm -rf coverage dist .nyc_output
 
 coverage:
-	node_modules/.bin/nyc report | coveralls
+	node_modules/.bin/nyc report --reporter=text-lcov | coveralls
