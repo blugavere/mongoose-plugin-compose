@@ -25,8 +25,8 @@ const cat = new Cat({ name: 'fido'});
 cat.speak(); // fido
 
 ```
-[travis-image]: https://travis-ci.com/blugavere/mongoose-plugin-compose.svg?branch=master
-[travis-url]: https://travis-ci.com/blugavere/mongoose-plugin-compose
+[travis-image]: https://travis-ci.org/blugavere/mongoose-plugin-compose.svg?branch=master
+[travis-url]: https://travis-ci.org/blugavere/mongoose-plugin-compose
 
 [coveralls-image]: https://coveralls.io/repos/blugavere/mongoose-plugin-compose/badge.svg
 [coveralls-url]: https://coveralls.io/r/blugavere/mongoose-plugin-compose
