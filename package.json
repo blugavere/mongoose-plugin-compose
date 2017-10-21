@@ -5,7 +5,10 @@
   "main": "dist/index.js",
   "scripts": {
     "test": "make test",
-    "prepublish": "tsc"
+    "prepare": "tsc"
+  },
+  "repository": {
+    "url": "blugavere/mongoose-plugin-compose"
   },
   "author": "Ben Lugavere",
   "license": "MIT",
