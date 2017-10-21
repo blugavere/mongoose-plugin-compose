@@ -1,0 +1,16 @@
+{
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ],
+  "extension": [
+    ".ts",
+    ".tsx"
+  ],
+  "require": [
+    "ts-node/register"
+  ],
+  "sourceMap": true,
+  "instrument": true,
+  "report-dir": "./coverage"
+}
