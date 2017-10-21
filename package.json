@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Inherit the prototype methods from a constructor or object onto mongoose instances.",
   "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "make test",
     "prepare": "tsc"
