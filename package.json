@@ -17,6 +17,7 @@
     "@types/node": "^8.0.29",
     "chai": "4.1.2",
     "coveralls": "3.0.0",
+    "istanbul-lib-instrument": "1.8.0",
     "mocha": "4.0.0",
     "mongoose": "4.12.3",
     "nodemon": "1.12.1",
