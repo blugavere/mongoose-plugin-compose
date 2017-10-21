@@ -11,6 +11,5 @@
     "ts-node/register"
   ],
   "sourceMap": true,
-  "instrument": true,
-  "report-dir": "./coverage"
+  "instrument": true
 }
