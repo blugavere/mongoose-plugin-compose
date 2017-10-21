@@ -2,7 +2,7 @@
 .PHONY: test coverage
 
 test: clean
-	node_modules/.bin/nyc node_modules/.bin/mocha --opts .mocharc
+	node_modules/.bin/nyc node_modules/.bin/_mocha --opts .mocharc
 
 watch:
 	node_modules/.bin/mocha  --watch --opts .mocharc
