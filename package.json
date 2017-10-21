@@ -1,6 +1,6 @@
 {
   "name": "mongoose-plugin-compose",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Inherit the prototype methods from a constructor or object onto mongoose instances.",
   "main": "dist/index.js",
   "files": [
