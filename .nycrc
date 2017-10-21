@@ -11,5 +11,6 @@
     "ts-node/register"
   ],
   "sourceMap": true,
-  "instrument": true
+  "instrument": true,
+  "all": true
 }
